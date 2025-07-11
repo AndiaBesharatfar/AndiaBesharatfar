@@ -55,7 +55,7 @@ I'm eager to learn, build real-world projects, and grow into a professional deve
 #Contact
 
 - 📧 Email: andiabesharatfar@gmail.com   
-- 💻 GitHub: [github.com/yourusername](https://github.com/AndiaBesharatfar)
+- 💻 GitHub: [github.com/AndiaBesharatfar](https://github.com/AndiaBesharatfar)
 
 ---
 
